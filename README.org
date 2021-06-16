@@ -1,0 +1,12 @@
+#+title:     Ectorepo: elisp
+#+author:    David Conner
+#+email:     noreply@te.xel.io
+
+
+* Elisp
+
+EmacsWiki has a list of decent [[https://www.emacswiki.org/emacs/ExampleConfigurations][emacs config examples]].
+
+** Emacs Lisp Repos
++ [[https://github.com/p3r7/awesome-elisp][p3r7/awesome-elisp]] list of emacs-lisp references
++ [[https://github.com/magnars/dash.el][magnars/dash.el]] like underscore.js (more or less) but for elisp
